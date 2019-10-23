@@ -14,12 +14,15 @@
 </head>
 
 <body>
+  <div id="skip-to-content">
+    <a href="#main-content">Skip to main content</a>
+  </div>
   <!-- 1. Backdrop & Modal -->
   <div class="backdrop">
   </div>
   <div class="modal">
-    <h3 class="modal-title">SIGN UP FOR EMAILS + GET 20% OFF</h3>
-    <h6 class="modal-subtitle">and promotional offers by email every week!</h6>
+    <p class="modal-title">SIGN UP FOR EMAILS + GET 20% OFF</p>
+    <p class="modal-subtitle">and promotional offers by email every week!</p>
     <div class="modal-actions">
       <a class="modal-action" href="#">Sign me up!</a>
       <button class="modal-action modal-action-negative" type="button" href="#">No Thanks</button>
@@ -91,7 +94,7 @@
     </ul>
   </nav>
 
-  <main>
+  <main id="main-content">
     <!-- 3. Hero image -->
     <section class="hero-section">
       <div class="hero-overlay">
@@ -102,8 +105,8 @@
       </div>
       <div class="hero-text-container">
         <h1 class="hero-text">AUTHENTIC GRACE</h1>
-        <h4 class="hero-text">Boutique</h4>
-        <h6 class="hero-text">Timeless basics + bold statements</h6>
+        <h2 class="hero-text">Boutique</h2>
+        <p class="hero-text">Timeless basics + bold statements</p>
       </div>
     </section>
 
@@ -111,7 +114,7 @@
     <!-- 4. Image Grid Section-->
 
     <section id="image-grid-section" class="image-grid-container">
-      <h2>SHOP THE LOOK</h2>
+      <p class="image-grid-heading">SHOP THE LOOK</p>
       <div class="image-grid-wrapper">
         <figure class="image-wrapper">
           <img class="grid-image grid-image-1" src="images/photos/adult-beach-beautiful-1252982.jpg" alt="Stylish womann wearing mustard yellow outfit, large frame white wunglasses, and a hat">
@@ -156,34 +159,30 @@
     <!-- 5. Collection -->
     <section class="collection-container">
       <article>
-        <h3>Stylish clothing made for movement.</h3>
-        <h3>Quality, washer-friendly, stain-resistant fabrics.</h3>
-        <h3>Love it or return it hassle-free.</h3>
+        <p class="collection-text">Stylish clothing made for movement.</p>
+        <p class="collection-text">Quality, washer-friendly, stain-resistant fabrics.</p>
+        <p class="collection-text">Love it or return it hassle-free.</p>
       </article>
       <a href="#"><button class="button button-collection">COLLECTION</button></a>
     </section>
 
     <!-- 6. Style -->
-    <section class="style-container">
-      <div class="blog-block">
+    <section class="style-container blog-block">
+      <figure class="blog-image">
+        <img src="images\photos\image-for-blog-section-3.jpg" alt="Woman wearing striped blouse, standing in a field probably kissing a man, a hat is hiding their faces">
+      </figure>
 
-        <figure class="blog-image">
-          <img src="images\photos\image-for-blog-section-3.jpg" alt="Woman wearing striped blouse, standing in a field probably kissing a man, a hat is hiding their faces">
-        </figure>
-
-        <div class="blog-text">
-          <h2>STYLE</h2>
-          <h4>Our customer service stylists can help you get the effortless + classic look you desire. Just give us a call, come into the store, or e-mail us and we will be happy to assist you.</h4>
-          <h4>Check out our blog for featured fashion pairings from our stylists and owner, as well as new additions to the Authentic Grace clothing collection.</h4>
-          <a href="#" class="btn-blog">BLOG</a>
-
-        </div>
+      <div class="blog-text-container">
+        <p class="style-heading">STYLE</p>
+        <p class="style-text">Our customer service stylists can help you get the effortless + classic look you desire. Just give us a call, come into the store, or e-mail us and we will be happy to assist you.</p>
+        <p class="blog-text">Check out our blog for featured fashion pairings from our stylists and owner, as well as new additions to the Authentic Grace clothing collection.</p>
+        <a href="#" class="btn-blog">BLOG</a>
       </div>
     </section>
 
     <!-- 7. Testimonials -->
     <section id="testimonials-section" class="testimonials-section">
-      <h2>CUSTOMER TESTIMONIALS</h2>
+      <p class="testimonials-heading">CUSTOMER TESTIMONIALS</p>
       <div class="testimonials-wrapper">
         <article class="testimonial">
 
@@ -231,7 +230,7 @@
     <!-- 8. Get in Touch -->
     <section id="contact" class="get-in-touch-container">
       <div class="contact">
-        <h2>GET IN TOUCH</h2>
+        <p class="contact-heading">GET IN TOUCH</p>
 
         <!--Contact form here-->
         <form autocomplete="on">
@@ -274,9 +273,9 @@
     <!--Social media icons here-->
     <div class="footer-social-media">
       <ul class="footer-icons">
-        <li class="footer-icons-li"><a href="https://www.instagram.com/"><span class="fab fa-instagram footer-icon" alt="Instagram"></span></a></li>
-        <li class="footer-icons-li"><a href="https://www.facebook.com/"><span class="fab fa-facebook footer-icon" alt="Facebook"></span></a></li>
-        <li class="footer-icons-li"><a href="https://twitter.com/"><span class="fab fa-twitter footer-icon" alt="Twitter"></span></a></li>
+        <li class="footer-icon-li"><a class="footer-icon-link" href="https://www.instagram.com/"><span class="fab fa-instagram footer-icon" alt="Instagram"></span></a></li>
+        <li class="footer-icon-li"><a class="footer-icon-link" href="https://www.facebook.com/"><span class="fab fa-facebook footer-icon" alt="Facebook"></span></a></li>
+        <li class="footer-icon-li"><a class="footer-icon-link" href="https://twitter.com/"><span class="fab fa-twitter footer-icon" alt="Twitter"></span></a></li>
       </ul>
     </div>
     
