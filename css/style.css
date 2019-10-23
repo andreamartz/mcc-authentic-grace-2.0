@@ -221,9 +221,7 @@ font-weight: 700;
 text-decoration: none; 
 /* background: #e5e5e5;  */
 padding: 0.2rem 0; 
-/* display: inline-block;  */
-/* width: 100%;  */
-/* text-align: center;  */
+
 }
 
 @media (min-width: 42rem) {
@@ -241,9 +239,10 @@ padding: 0.2rem 0;
 
 .main-nav-item-link:hover,
 .main-nav-item-link:active { 
-  color: #e5e5e5;
-  background: #292929;
-  border-bottom: 5px solid #e5e5e5;
+  /* color: #e5e5e5; */
+  /* background: #292929; */
+  border-bottom: 2px solid #292929;
+  font-size: 115%;
   /* opacity: 0.75;  */
 }
 
@@ -275,6 +274,15 @@ padding: 0.2rem 0;
 
 .mobile-nav-item-link {
   font-size: 1.5rem;
+}
+
+.mobile-nav-item-link:hover,
+.mobile-nav-item-link:active { 
+  /* color: #e5e5e5; */
+  /* background: #292929; */
+  border-bottom: 2px solid #292929;
+  font-size: 1.73rem;
+  /* opacity: 0.75;  */
 }
 
 /* The hide-nav class will be added when the mobile nav is clicked */
@@ -611,11 +619,18 @@ select{
 	background: #eec7b5;
 	padding: 8px 15px 8px 15px;
 	border: none;
-	color: #fff;
+  color: #292929;
+  font-size: 1.2rem;
+  font-weight: bold;
 }
-.form-style-1 input[type=submit]:hover, .form-style-1 input[type=button]:hover{
+.form-style-1 input[type=submit]:hover, 
+.form-style-1 input[type=button]:hover,
+.form-style-1 input[type=submit]:active, 
+.form-style-1 input[type=button]:active{
 	background: #eec7b5;
-	box-shadow:none;
+  box-shadow:none;
+  font-size: 1.35rem;
+  text-decoration: underline;
 }
 .form-style-1 .required{
 	color: #eec7b5; 
