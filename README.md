@@ -4,16 +4,16 @@ Authentic Grace is a fictional store in South Carolina.  The website is an origi
 
 ## Contents
 
-[Description](##Description)  
-[Authors](##authors)  
-[Understanding the Business](##understanding-the-business)  
+* [Description](##Description)  
+* [Authors](##authors)  
+* [Understanding the Business](##understanding-the-business)  
 
   * [Buyer Persona](###buyer-persona)  
   * [Business Model Canvas](###business-model-canvas)  
   * [Customer Journey](###customer-journey)  
 
-[Design of Site](##design-of-site)  
-  * [Wireframe/Mock-up](###wireframe/mock-up)  
+* [Design of Site](##design-of-site)  
+  * [Wireframe/Mock-up](#wireframe/mock-up)  
   * [Prototype](###prototype)  
   * [Accessibility Considerations](###accessibility-considerations)  
     * [Image Accessibility](####image-accessibility)  
@@ -23,14 +23,15 @@ Authentic Grace is a fictional store in South Carolina.  The website is an origi
   * [Color Palette](###color-palette)  
   * [Typography](###typography)  
 
-[Programming Languages Used](##programming-languages-used)  
-[Software Used](##software-used)  
-  * [Planning, Communication, and Sharing Resources](###planning,-communication,-and-sharing-resources) 
+* [Programming Languages Used](##programming-languages-used)  
+* [Software Used](##software-used)  
+  * [Planning, Communication, and Sharing Resources](###planning,-communication,-and-sharing-resources)  
   * [Other](###other)  
 
-[Things We've Learned](##things-we've-learned)  
-[Future Improvements](##future-improvements)  
-[Credits](##credits)  
+* [Things We've Learned](##things-we've-learned)  
+* [Things We've Learned](##things-we've-learned)  
+* [Future Improvements](##future-improvements)  
+* [Credits](##credits)  
 
 ## Description
 
