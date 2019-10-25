@@ -20,19 +20,19 @@ Authentic Grace is a fictional store in South Carolina.  The website is an origi
     * [Image Accessibility](#image-accessibility)  
     * [Contact Form Accessibility](#contact-form-accessibility)  
     * [Color Palette Accessibility](#color-palette-accessibility)  
-  * [Layout](###layout)  
-  * [Color Palette](###color-palette)  
-  * [Typography](###typography)  
+  * [Layout](#layout)  
+  * [Color Palette](#color-palette)  
+  * [Typography](#typography)  
 
-* [Programming Languages Used](##programming-languages-used)  
-* [Software Used](##software-used)  
-  * [Planning, Communication, and Sharing Resources](###planning,-communication,-and-sharing-resources)  
-  * [Other](###other)  
+* [Programming Languages Used](#programming-languages-used)  
+* [Software Used](#software-used)  
+  * [Planning, Communication, and Sharing Resources](#planning,-communication,-and-sharing-resources)  
+  * [Other](#other)  
 
-* [Things We've Learned](##things-we've-learned)  
-* [Things We've Learned](##things-we've-learned)  
-* [Future Improvements](##future-improvements)  
-* [Credits](##credits)  
+* [Things We've Learned](#things-we've-learned)  
+* [Things We've Learned](#things-we've-learned)  
+* [Future Improvements](#future-improvements)  
+* [Credits](#credits)  
 
 ## Description
 
