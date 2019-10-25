@@ -8,9 +8,9 @@ Authentic Grace is a fictional store in South Carolina.  The website is an origi
 * [Authors](#authors)  
 * [Understanding the Business](#understanding-the-business)  
 
-  * [Buyer Persona](###buyer-persona)  
-  * [Business Model Canvas](###business-model-canvas)  
-  * [Customer Journey](###customer-journey)  
+  * [Buyer Persona](#buyer-persona)  
+  * [Business Model Canvas](#business-model-canvas)  
+  * [Customer Journey](#customer-journey)  
 
 * [Design of Site](##design-of-site)  
 
