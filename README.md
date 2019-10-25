@@ -2,6 +2,36 @@
 
 Authentic Grace is a fictional store in South Carolina.  The website is an original creation for this store by the authors in response to an assignment.  
 
+## Contents
+
+[Description](##Description)  
+[Authors](##authors)  
+[Understanding the Business](##understanding-the-business)  
+
+  * [Buyer Persona](###buyer-persona)  
+  * [Business Model Canvas](###business-model-canvas)  
+  * [Customer Journey](###customer-journey)  
+
+[Design of Site](##design-of-site)  
+  * [Wireframe/Mock-up](###wireframe/mock-up)  
+  * [Prototype](###prototype)  
+  * [Accessibility Considerations](###accessibility-considerations)  
+    * [Image Accessibility](####image-accessibility)  
+    * [Contact Form Accessibility](####contact-form-accessibility)  
+    * [Color Palette Accessibility](####color-palette-accessibility)  
+  * [Layout](###layout)  
+  * [Color Palette](###color-palette)  
+  * [Typography](###typography)  
+
+[Programming Languages Used](##programming-languages-used)  
+[Software Used](##software-used)  
+  * [Planning, Communication, and Sharing Resources](###planning,-communication,-and-sharing-resources) 
+  * [Other](###other)  
+
+[Things We've Learned](##things-we've-learned)  
+[Future Improvements](##future-improvements)  
+[Credits](##credits)  
+
 ## Description
 
 This project was a joint effort produced in response to an assignment for Moms Can Code School, Cohort 4.  The timeframe allotted for this project was two weeks.  This was enough time for the authors, who are relatively new to coding, to put together a functioning, responsive website, but not enough time to make everything look and work perfectly. See a later section for information about our plans for future improvements.
@@ -82,45 +112,45 @@ A simple sans-serif Google font, Overpass, was chosen to make the site readable 
 
 ## Programming Languages Used
 
-- HTML
-- CSS
-- JavaScript
+* HTML
+* CSS
+* JavaScript
 
 We wanted to focus on building a site with vanilla CSS and JavaScript (i.e., no frameworks) so that we could build and solidify our skills in those languages.
 
 ## Software Used
 
-- Lucidchart (for the Customer Journey Map)
-- Visual Studio Code
+* Lucidchart (for the Customer Journey Map)
+* Visual Studio Code
 
 ### Planning, Communication, and Sharing Resources
 
-- Trello
-- Google Drive
-- Slack
-- Email
-- Git
-- Github
+* Trello
+* Google Drive
+* Slack
+* Email
+* Git
+* Github
 
 ### Other
 
-- Figma (wireframe/mock-up/prototype)
-- Business Model Canvas template by Alexander Osterwalder
-- Amazon Alexa customer journey exercise template
-- Visual Studio Code and many extensions
+* Figma (wireframe/mock-up/prototype)
+* Business Model Canvas template by Alexander Osterwalder
+* Amazon Alexa customer journey exercise template
+* Visual Studio Code and many extensions
 
 ## Things We've Learned
 
 We learned a lot!  Here is a bulleted list of some things that we learned:
 
-- that Google is our best friend!
-- how to identify client needs and implement them on the website
-- how to use Figma to create a prototype for a webpage
-- how to design a mobile-first site
-- how to control various types of layout with vanilla CSS (e.g., hero image, grid of images, and navbar)
-- how to use the CSS Grid and Flexbox
-- how to use Git and Github when working as a team
-- how Javascript can be used to change the frontend
+* that Google is our best friend!
+* how to identify client needs and implement them on the website
+* how to use Figma to create a prototype for a webpage
+* how to design a mobile-first site
+* how to control various types of layout with vanilla CSS (e.g., hero image, grid of images, and navbar)
+* how to use the CSS Grid and Flexbox
+* how to use Git and Github when working as a team
+* how Javascript can be used to change the frontend
 
 Most importantly, we've confirmed that we have what it takes to be web developers.  Passion.  Commitment.  Problem-solving ability.
 
@@ -132,4 +162,4 @@ As a result, there are some features we did not have time to build before the du
 
 ## Credits
 
-Photo credits: Unsplash and Pexels
+Photo credits: Unsplash and Pexels  
