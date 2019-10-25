@@ -30,7 +30,6 @@ Authentic Grace is a fictional store in South Carolina.  The website is an origi
   * [Other](#other)  
 
 * [Things We've Learned](#things-weve-learned)  
-* [Things We've Learned](#things-weve-learned)  
 * [Future Improvements](#future-improvements)  
 * [Credits](#credits)  
 
