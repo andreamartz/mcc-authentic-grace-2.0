@@ -40,7 +40,7 @@ This project was a joint effort produced in response to an assignment for Moms C
 
 The assignment details can be seen in the image below.  It should be noted that the client and her desired website are fictional, but realistic.
 
-![Assignment to create a minimum viable product, or MVP, for online store](images/design/assignment.JPG)
+![Assignment to create a minimum viable product, or MVP, for online store](images/design/assignment.JPG)  
   [Back to the top](#authentic-grace)
 
 ## Authors
