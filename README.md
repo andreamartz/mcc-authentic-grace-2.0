@@ -26,11 +26,11 @@ Authentic Grace is a fictional store in South Carolina.  The website is an origi
 
 * [Programming Languages Used](#programming-languages-used)  
 * [Software Used](#software-used)  
-  * [Planning, Communication, and Sharing Resources](#planning,-communication,-and-sharing-resources)  
+  * [Planning, Communication, and Sharing Resources](#planning-communication-and-sharing-resources)  
   * [Other](#other)  
 
-* [Things We've Learned](#things-we've-learned)  
-* [Things We've Learned](#things-we've-learned)  
+* [Things We've Learned](#things-weve-learned)  
+* [Things We've Learned](#things-weve-learned)  
 * [Future Improvements](#future-improvements)  
 * [Credits](#credits)  
 
